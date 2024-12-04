@@ -18,6 +18,7 @@ class SportsCar : public Car{
     }
 };
 
+//derived class
 class ElectricCar : public Car{
     public:
     void carSound(){
